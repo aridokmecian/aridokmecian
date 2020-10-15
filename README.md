@@ -8,6 +8,9 @@ const allAboutMe = {
       last: "Dokmecian"
    },
    languages: ['Java', 'TypeScript', 'Angular', 'Python'],
+   experience: {
+      current: 'Software Developer Intern, Caseware International, May 2020 - December 2020'
+   }
    workingOn: 'My very first iOS app Overdone',
    learning: 'All things Swift and SwiftUI',
    socials: {
