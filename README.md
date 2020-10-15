@@ -11,7 +11,7 @@ const allAboutMe = {
    experience: {
       current: 'Software Developer Intern, Caseware International, May 2020 - December 2020',
       education: 'Honors BSc Computer Science, York University, 2017 - 2022'
-   }
+   },
    workingOn: 'My very first iOS app Overdone',
    learning: 'All things Swift and SwiftUI',
    socials: {
