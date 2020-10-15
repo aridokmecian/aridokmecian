@@ -1,5 +1,31 @@
-### Hi there 👋
+### Hi there im Ari 👋
 
+```javascript
+const allAboutMe = {
+  name: {
+      pronouns: 'he/him',
+      first: "Ari",
+      last: "Dokmecian"
+   },
+   languages: ['Java', 'TypeScript', 'Angular', 'Python'],
+   workingOn: 'My very first iOS app Overdone',
+   learning: 'All things Swift and SwiftUI',
+   socials: {
+      twiter: 'http://twitter.com/aridokmecian',
+      instagram: 'http://instagram/aridokmecian',
+      linkedin: 'https://www.linkedin.com/in/aridokmecian',
+      recursion: 'http://github.com/aridokmecian'
+   },
+   favorites: {
+      song: 'American Boy',
+      movie: 'Get Smart',
+      game: ['Portal 2', 'Minecraft'],
+      book: 'Cracking the Coding interview'
+   }
+}
+```
+
+![Ari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aridokmecian&show_icons=true&hide_rank=true&hide_border=true&hide=issues&count_private=true)
 <!--
 **aridokmecian/aridokmecian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
