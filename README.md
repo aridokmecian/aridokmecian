@@ -9,7 +9,7 @@ const allAboutMe = {
    },
    languages: ['Java', 'TypeScript', 'Swift', 'Python'],
    experience: {
-      current: 'Software Developer Intern, Caseware International, May 2020 - December 2020',
+      current: 'Software Developer Intern, Caseware International, May 2020 - Current',
       education: 'Honors BSc Computer Science, York University, 2017 - 2022'
    },
    workingOn: 'My very first iOS app Overdone',
