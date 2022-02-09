@@ -9,7 +9,7 @@ const allAboutMe = {
    },
    languages: ['Java', 'TypeScript', 'Swift', 'Python'],
    experience: {
-      current: 'Currently looking for my next role for Summer 2022 :D',
+      incoming: 'Software Engineering Intern, Apple, May 2022 - August 2022',
       past: [
         'Software Engineering Intern, Square, May 2021 - August 2021',
         'Software Developer Intern, Caseware International, May 2020 - April 2021'
