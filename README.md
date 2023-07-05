@@ -7,16 +7,16 @@ const allAboutMe = {
       first: "Ari",
       last: "Dokmecian"
    },
-   languages: ['Java', 'TypeScript', 'Swift', 'Python'],
+   languages: ['Swift', 'Python', 'Java', 'TypeScript'],
    experience: {
-      incoming: 'Software Engineering Intern, Apple, May 2022 - August 2022',
+      current: 'iOS Engineer, Cash App, May 1 - Present',
       past: [
+        'Software Engineering Intern, Apple, May 2022 - August 2022',
         'Software Engineering Intern, Square, May 2021 - August 2021',
         'Software Developer Intern, Caseware International, May 2020 - April 2021'
       ],
       education: 'Honors BSc Computer Science, York University, 2017 - 2022'
    },
-   workingOn: 'My very first iOS app Overdone',
    learning: 'All things Swift and SwiftUI',
    socials: {
       twiter: 'http://twitter.com/aridokmecian',
@@ -27,7 +27,7 @@ const allAboutMe = {
    favorites: {
       song: 'American Boy',
       movie: 'Get Smart',
-      game: ['Portal 2', 'Minecraft'],
+      game: ['Portal 2', 'Minecraft', 'God of War 2018'],
       book: 'Cracking the Coding interview'
    }
 }
